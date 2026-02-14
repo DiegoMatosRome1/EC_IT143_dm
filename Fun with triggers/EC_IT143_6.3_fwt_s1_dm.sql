@@ -1,0 +1,1 @@
+-- Q: How can I automatically stamp LastModifiedDate and LastModifiedBy on every UPDATE to t_w3_schools_customers?
