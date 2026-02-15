@@ -1,0 +1,3 @@
+CREATE NONCLUSTERED INDEX IX_t_w3_schools_customers_ContactName
+ON dbo.t_w3_schools_customers (ContactName);
+GO
